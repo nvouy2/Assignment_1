@@ -1,7 +1,4 @@
-/* Filename: Riadi_q12.cpp 
- * Author: Julian Riadi
- * Description:
- */
+
 #include <iostream>
 
 using namespace std;
